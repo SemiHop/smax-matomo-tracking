@@ -8,7 +8,7 @@ _paq.push(['enableLinkTracking']);
 (function() {
     var u="//webanalytics.thy.com/";
     _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', 'SITE_ID']); // Replace SITE_ID with your actual Site ID
+    _paq.push(['setSiteId', '142']); // Replace SITE_ID with your actual Site ID
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.async=true; 
     g.src=u+'matomo.js'; 
